@@ -1,0 +1,17 @@
+{
+  "name": "i18n-auto",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "upload": "node upload.js",
+    "download": "node download.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "google-auth-library": "^9.13.0"
+  }
+}

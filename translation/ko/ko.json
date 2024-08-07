@@ -1,0 +1,14 @@
+{
+  "auto-translation": "자동 번역",
+  "new-jeans": "뉴진스",
+  "info": {
+    "clear": "초기화 확인",
+    "auto-classify": {
+      "title": "자동 분류 하시겠습니까?",
+      "validate": {
+        "empty": "분류할 데이터가 없습니다.",
+        "success": "자동 분류가 완료되었습니다."
+      }
+    }
+  }
+}

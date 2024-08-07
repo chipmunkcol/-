@@ -1,0 +1,14 @@
+{
+  "auto-translation": "automatic translation",
+  "new-jeans": "NEW JEANS✨",
+  "info": {
+    "clear": "Confirm factory reset",
+    "auto-classify": {
+      "title": "Do you want to automatically classify?",
+      "validate": {
+        "empty": "There is no data to sort.",
+        "success": "Automatic classification has been completed."
+      }
+    }
+  }
+}
